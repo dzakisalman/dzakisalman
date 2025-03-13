@@ -42,4 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzakisalman&show_icons=true&locale=en" alt="dzakisalman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzakisalman&" alt="dzakisalman" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakisalman" alt="GitHub Streak Stats" />
+
+
