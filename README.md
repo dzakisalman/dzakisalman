@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dzaki</h1>
-<h3 align="center">A Bachelor's degree student majoring in Computer Science with a keen interest in web development, UI/UX, and data analysis.</h3>
+<h3 align="center">A Bachelor's degree student majoring in Computer Science with a keen interest in mobile development, web development, UI/UX, and data analysis.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzakisalman" alt="dzakisalman" /></a> </p>
 
